@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=myoungsuk's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
+
+<p align="center">
+Nice to meet you👐<br>
+My name is Kang Myoung Suk and I am studying Android app development!<br>
+I am currently attending university and I am studying with an attitude to learn anything.<br>
+</p>
+
+
 <br>
 
 <p align="center">
@@ -12,12 +20,6 @@
 </p>
 
 <br>
-
-<p align="center">
-Nice to meet you👐<br>
-My name is Kang Myoung Suk and I am studying Android app development!<br>
-I am currently attending university and I am studying with an attitude to learn anything.<br>
-</p>
 
 ## 📚 Core Skills
 ### 이 기술들을 주로 다루고 있어요 😀
