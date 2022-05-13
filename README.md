@@ -36,6 +36,7 @@ I am currently attending university and I am studying with an attitude to learn 
   * 2019.03 ~ 
     
 ## 🤔 Interest
+* AWS
 * AAC / MVVM
 * Jetpack Compose
 * Firebase
