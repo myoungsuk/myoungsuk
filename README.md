@@ -22,7 +22,7 @@ I am currently attending university and I am studying with an attitude to learn 
 <br>
 
 ## 📚 Core Skills
-### 이 기술들을 주로 다루고 있어요 😀
+### 이 기술들을 주로 다루고 있어요 💫
 <div>
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
