@@ -3,7 +3,7 @@
 
 <p align="center">
 Nice to meet you👐<br>
-My name is Kang Myoung Suk and I am studying Android app development!<br>
+My name is Kang Myoung Suk and I am studying JAVA and Kotlin<br>
 I am currently attending university and I am studying with an attitude to learn anything.<br>
 </p>
 
