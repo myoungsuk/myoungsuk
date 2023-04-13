@@ -16,7 +16,7 @@ I am currently attending university and I am studying with an attitude to learn 
     <a href="https://www.instagram.com/myoung___suk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
 <br><br>
-<Strong>📧Email📧</Strong><br>k4858678@gmail.com<br>
+<Strong>📧Email📧</Strong><br>kang.myoung.suk.0212@gmail.com<br>
 </p>
 
 <br>
