@@ -51,7 +51,7 @@ I am currently attending university and I am studying with an attitude to learn 
     
     # Hi there 👋
 
-
+[![wakatime](https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg)](https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f)
 [![wakatime](https://wakatime.com/badge/user/4d52d940-efc7-4eda-bca8-afb77a6dfa02.svg)](https://wakatime.com/@4d52d940-efc7-4eda-bca8-afb77a6dfa02)
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/myoungsuk/)](https://github.com/myoungsuk/)  -->
 [![cheseo's 42 stats](https://badge42.vercel.app/api/v2/cl60mftnf000609mv65leer9m/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
