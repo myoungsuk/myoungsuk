@@ -86,4 +86,4 @@ I am currently attending university and I am studying with an attitude to learn 
 <br>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer)
