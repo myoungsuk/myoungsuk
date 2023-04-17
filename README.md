@@ -82,6 +82,13 @@ I am currently attending university and I am studying with an attitude to learn 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk" alt="myoungsuk's wakatime stats" />
 </div>
 
+<div align="center">
+  <a href="https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f">
+    <img src="https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg" alt="wakatime" /></a>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk" alt="myoungsuk's wakatime stats" />
+</div>
+
 <br>
 
 <p align="center">
