@@ -74,9 +74,9 @@ I am currently attending university and I am studying with an attitude to learn 
  <br>
 ## 🔆 else    
     
- <br>
+<br>
+
 [![wakatime](https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg)](https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f)
-    
 ![myoungsuk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk)
     
 <br>
