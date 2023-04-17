@@ -101,6 +101,5 @@ I am currently attending university and I am studying with an attitude to learn 
 
 </p>
 
-<br></br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
