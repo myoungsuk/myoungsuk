@@ -89,3 +89,5 @@ I am currently attending university and I am studying with an attitude to learn 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoungsuk&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
