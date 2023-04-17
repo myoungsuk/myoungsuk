@@ -61,8 +61,7 @@ I am currently attending university and I am studying with an attitude to learn 
 <p align="center">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
-  <img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Flutter-ffb13b?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp 
+  <img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>&nbsp
 </p>
 
