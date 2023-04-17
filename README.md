@@ -64,31 +64,7 @@ I am currently attending university and I am studying with an attitude to learn 
 
 
 </p>
-<br>
-    
-## 🎓 Education
-### 충북대학교 소프트웨어공학과 재학중
-  * 2019.03 ~ 
-    
-    
-<br>
 
-## 🔆 else    
-    
-<br>
-
-[![wakatime](https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg)](https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f)
-
-![myoungsuk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk)
-    
-<br>
-
-
-<br>
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myoungsuk&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoungsuk&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
 <br>
 
 <p align="center">
@@ -119,5 +95,6 @@ I am currently attending university and I am studying with an attitude to learn 
 
 </p>
 
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
