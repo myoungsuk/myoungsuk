@@ -68,7 +68,7 @@ I am currently attending university and I am studying with an attitude to learn 
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Android Studio-00599C?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-IntelliJ_IDEA-2C2255?style=flat&logo=intellij-idea&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"/></a>&nbsp
 
