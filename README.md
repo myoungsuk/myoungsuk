@@ -79,24 +79,11 @@ I am currently attending university and I am studying with an attitude to learn 
 </p>
 
 <h3 align="center"> 📧 Email 📧 </h3>
-<p align="center>
+<p align="center">
   <a href="mailto:kang.myoungsuk.0212@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kang.myoungsuk.0212@gmail.com"/></a>
 </p>
     
     
-<br>
-
-<p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://www.instagram.com/myoung___suk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-    <br>
-<br><br>
-<Strong>📧Email📧</Strong><br>kang.myoung.suk.0212@gmail.com<br>
-</p>
-
-<br>
-
-
 ## 🔆 else    
     
 [![wakatime](https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg)](https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f)
