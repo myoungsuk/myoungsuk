@@ -70,6 +70,12 @@ I am currently attending university and I am studying with an attitude to learn 
 <p align="center">
 
 ## 🎓 Education
+  <h3 align="center">충북대학교 소프트웨어공학과 재학중</h3>
+  <p align="center">
+  * 2019.03 ~ <br/><br/>
+  
+</p>
+
 ### 충북대학교 소프트웨어공학과 재학중
   * 2019.03 ~ 
     
