@@ -75,18 +75,15 @@ I am currently attending university and I am studying with an attitude to learn 
 <br>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myoungsuk&show_icons=true&include_all_commits=true&bg_color=ffffff&title_color=000000&text_color=000000">
+  <br><br/>
   <a href="https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f">
     <img src="https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg" alt="wakatime" />
   </a>
   <br><br/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk" alt="myoungsuk's wakatime stats" />
 </div>
-
 <br>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myoungsuk&show_icons=true&include_all_commits=true&bg_color=ffffff&title_color=000000&text_color=000000">
-</p>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
