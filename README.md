@@ -62,8 +62,6 @@ I am currently attending university and I am studying with an attitude to learn 
   <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></a>&nbsp
 
-<img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></a>&nbsp
-
 
 </p>
 <br>
