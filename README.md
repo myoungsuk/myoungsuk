@@ -83,12 +83,6 @@ I am currently attending university and I am studying with an attitude to learn 
     
 <br>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/myoungsuk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoungsuk&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
-  </a>
-</p>
 
 <br>
 <p>
