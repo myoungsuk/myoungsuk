@@ -21,7 +21,9 @@ I am currently attending university and I am studying with an attitude to learn 
 </p>
 <br>
 
-## 📚 Core Skills and 🤔 Interest
+## 📚 Core Skills and Interest 🤔
+
+<br>
 
 <h3 align="center">🍳 Back Tech Stack 🍳</h3>
 <p align="center">
@@ -61,7 +63,7 @@ I am currently attending university and I am studying with an attitude to learn 
 
 
 </p>
-
+<br>
     
 ## 🎓 Education
 ### 충북대학교 소프트웨어공학과 재학중
