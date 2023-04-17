@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=myoungsuk's%20GitHub%20Profile&descAlignY=51&descAlign=62&fontColor=87CEFA)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=myoungsuk's%20GitHub%20Profile&descAlignY=51&descAlign=62&fontColor=FFFFFF)
+
 
 <p align="center">
 👋 Nice to meet you!<br>
@@ -85,4 +86,4 @@ I am currently attending university and I am studying with an attitude to learn 
 <br>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer)
