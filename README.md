@@ -44,16 +44,16 @@ I am currently attending university and I am studying with an attitude to learn 
 * Clean Architecture
 * Android
 * Spring
-
     
-    
-    
-    
-    # Hi there 👋
-
-    ![myoungsuk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk)
     
 [![wakatime](https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg)](https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f)
+![myoungsuk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk)
+    
+    
+    
+    
+    
+
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/myoungsuk/)](https://github.com/myoungsuk/) -->
 
 
