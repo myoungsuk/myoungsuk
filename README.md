@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=myoungsuk's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<p align="center">
-👋 Nice to meet you!<br>
-My name is Kang Myoung Suk, and I am studying Back-End.<br>
-Currently attending university, I strive to learn and explore anything that comes my way.<br>
-</p>
 
+<p align="center">
+Nice to meet you👐<br>
+My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
+I am currently attending university and I am studying with an attitude to learn anything.<br>
+</p>
 <br>
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
