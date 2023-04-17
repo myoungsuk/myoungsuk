@@ -69,7 +69,7 @@ I am currently attending university and I am studying with an attitude to learn 
 <p align="center">
   <img src="https://img.shields.io/badge/Android Studio-00599C?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-#1F1F1F?style=flat&logo=intellij-idea&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"/></a>&nbsp
 
 </p>
