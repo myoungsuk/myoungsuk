@@ -73,10 +73,10 @@ I am currently attending university and I am studying with an attitude to learn 
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center"> 🌈 My SMS 🌈 </h3>
+<h3 align="center"> 🌈 My SNS 🌈 </h3>
 <p align="center">
   <a href="https://www.instagram.com/myoung___suk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung___suk/"/></a>&nbsp
-  <a href="mailto:easyhwan97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kang.myoungsuk.0212@gmail.com"/></a>
+  <a href="mailto:kang.myoungsuk.0212@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kang.myoungsuk.0212@gmail.com"/></a>
 </p>
     
 ## 🔆 else    
