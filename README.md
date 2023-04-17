@@ -72,7 +72,7 @@ I am currently attending university and I am studying with an attitude to learn 
   * 2019.03 ~ Present<br/><br/>
   
 ## 🌟 Additional Info
-<br>
+<br></br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myoungsuk&show_icons=true&include_all_commits=true&bg_color=ffffff&title_color=000000&text_color=000000">
