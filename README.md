@@ -47,79 +47,15 @@ I am currently attending university and I am studying with an attitude to learn 
    
     
 ## 🔆 else    
+    
 [![wakatime](https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg)](https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f)
     
 ![myoungsuk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk)
     
-    
-    
-    
-    
-
-<!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/myoungsuk/)](https://github.com/myoungsuk/) -->
-
-
-#### ⏲️ Work Stats
-<!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk)](https://wakatime.com/@myoungsuk) -->
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-🌆 Daytime                186 commits         ████████░░░░░░░░░░░░░░░░░   31.26 % 
-🌃 Evening                224 commits         █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌙 Night                  117 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Tuesday                  114 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Wednesday                107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Friday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Sunday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-C                        6 hrs 49 mins       ██████████████████████░░░   89.92 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Makefile                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-```
-
-
-<!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myoungsuk&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoungsuk&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats)   -->
-
-<!--
-**veggie-garden/veggie-garden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
