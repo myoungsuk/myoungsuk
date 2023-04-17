@@ -69,25 +69,17 @@ I am currently attending university and I am studying with an attitude to learn 
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Android Studio-00599C?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-1F1F1F?style=flat&logo=intellij-idea&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-2C2255?style=flat&logo=intellij-idea&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"/></a>&nbsp
 
 
 </p>
 
-<h3 align="center"> 🌈 My SNS 🌈 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/myoung___suk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung___suk/"/></a>&nbsp
-</p>
 
-<h3 align="center"> 📧 Email 📧 </h3>
-<p align="center">
-  <a href="mailto:kang.myoungsuk.0212@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kang.myoungsuk.0212@gmail.com"/></a>
-</p>
     
     
 ## 🔆 else    
+    
     
 [![wakatime](https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg)](https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f)
     
