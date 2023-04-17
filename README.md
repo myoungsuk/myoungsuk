@@ -77,8 +77,8 @@ I am currently attending university and I am studying with an attitude to learn 
    
 
 ## 🔆 else
+<br></br>
 
-    <br></br>
 <div align="center">
   <a href="https://wakatime.com/@3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f">
     <img src="https://wakatime.com/badge/user/3f08f7e0-bb31-46d4-a541-e31f2fbb1d9f.svg" alt="wakatime" />
@@ -87,7 +87,8 @@ I am currently attending university and I am studying with an attitude to learn 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=myoungsuk" alt="myoungsuk's wakatime stats" />
 </div>
 
-    <br></br>
+<br></br>
+
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myoungsuk&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
