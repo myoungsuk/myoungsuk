@@ -10,7 +10,7 @@ I am currently attending university and I am studying with an attitude to learn 
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 <p align="center">
-  <a href="https://www.instagram.com/myoung___suk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung___suk/"/></a>&nbsp
+  <a href="https://www.instagram.com/myoung_suk.0212/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung_suk.0212/"/></a>&nbsp
 </p>
 
 <h3 align="center">📧 Email 📧</h3>
