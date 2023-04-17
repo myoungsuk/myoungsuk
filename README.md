@@ -21,21 +21,8 @@ I am currently attending university and I am studying with an attitude to learn 
 </p>
 <br>
 
-## 📚 Core Skills
-### 💫 이 기술들을 주로 다루고 있어요 
-<div>
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-  <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3766AB?style=for-the-badge&logo=python&logoColor=white">  
-    
-## 🎓 Education
-### 충북대학교 소프트웨어공학과 재학중
-  * 2019.03 ~ 
-    
-## 🤔 Interest
-   
+## 📚 Core Skills and 🤔 Interest
+
 <h3 align="center">🍳 Back Tech Stack 🍳</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-005571?style=flat&logo=ts-node&logoColor=white"/></a>&nbsp
@@ -75,7 +62,11 @@ I am currently attending university and I am studying with an attitude to learn 
 
 </p>
 
-
+    
+## 🎓 Education
+### 충북대학교 소프트웨어공학과 재학중
+  * 2019.03 ~ 
+    
     
     
 ## 🔆 else    
