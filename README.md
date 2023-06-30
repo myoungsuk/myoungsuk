@@ -4,7 +4,6 @@
 <p align="center">
 👋 Nice to meet you!<br>
 My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
-I am currently attending university and I am studying with an attitude to learn anything.<br>
 </p>
 <br>
 
