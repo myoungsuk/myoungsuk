@@ -60,13 +60,16 @@ I am currently attending university and I am studying with an attitude to learn 
 
 <br>
 
-## 🎓 Education
+## 🧑🏻‍💻History
 <br>
 
   <h3 align="center">Chungbuk National University - Software Engineering</h3>
   <p align="center">
   * 2019.03 ~ 2023.8<br/><br/>
-  
+
+  <h3 align = "center">제로베이스 백엔드 스쿨 15기</h3>
+  <p align = "cenrter">
+  * 2023.7 ~ 2023.12<br/><br/>
 
 
 
