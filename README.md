@@ -14,7 +14,7 @@ My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
 
 <h3 align="center">📧 Email 📧</h3>
 <p align="center">
-  <a href="mailto:kang.myoungsuk.0212@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kang.myoungsuk.0212@gmail.com"/></a>
+  <a href="mailto:k4858678@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kang.myoungsuk.0212@gmail.com"/></a>
 </p>
 
 <br>
