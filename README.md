@@ -32,7 +32,7 @@ My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
 <p align="center">
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-3766AB?style=flat&logo=mongodb&logoColor=white"/></a>&nbsp
+
 </p>
 
 <h3 align="center">🔗 Other Tech Stack 🔗</h3>
@@ -46,7 +46,7 @@ My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
   <img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>&nbsp
+
 </p>
 
 <h3 align="center">🔧 Tools 🔧</h3>
