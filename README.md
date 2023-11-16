@@ -66,9 +66,13 @@ My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
   <p align="center">
   * 2019.03 ~ 2023.8<br/><br/>
 
-   <h3 align="center">제로베이스 백엔드 스쿨 15기</h3>
+   <h3 align="center">제로베이스 백엔드 스쿨</h3>
   <p align="center">
-  * 2023.07 ~ 2023.12<br/><br/>
+  * 2023.07 ~ 2023.9<br/><br/>
+
+   <h3 align="center">멀티캠퍼스 백엔드 스쿨</h3>
+  <p align="center">
+  * 2023.09 ~ 2024.2<br/><br/>
 
 
 
