@@ -64,7 +64,7 @@ My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
 
   <h3 align="center">Chungbuk National University - Software Engineering</h3>
   <p align="center">
-  * 2019.03 ~ 2023.8<br/><br/>
+  * 2021.03 ~ 2023.8<br/><br/>
 
    <h3 align="center">제로베이스 백엔드 스쿨</h3>
   <p align="center">
