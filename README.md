@@ -74,7 +74,7 @@ My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
   <p align="center">
   * 2023.09 ~ 2024.2<br/><br/>
 
-  <h3 align="center">호아소프트</h3>
+  <h3 align="center">호아소프트 - 트레이딩 시스템 서버개발</h3>
   <p align="center">
   * 2024.2 ~ <br/><br/>
 
