@@ -19,10 +19,9 @@
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=k4858678@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=k4858678@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"
        alt="Gmail"/>
-</a>
   </a>
   &nbsp;
   <a href="https://mangseok.tistory.com/">
