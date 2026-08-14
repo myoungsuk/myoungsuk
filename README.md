@@ -9,6 +9,7 @@
   EtherCAT 기반 산업제어 소프트웨어를 개발합니다.
 </p>
 
+<br>
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 
 <p align="center">
