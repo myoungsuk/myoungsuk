@@ -9,13 +9,6 @@
   EtherCAT 기반 산업제어 소프트웨어를 개발합니다.
 </p>
 
-<p align="center">
-  서버, 통신, 제어, GUI 사이의 데이터 흐름을 따라가며<br>
-  문제를 재현하고 안정적으로 복구하는 일을 좋아합니다.
-</p>
-
-<br>
-
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 
 <p align="center">
